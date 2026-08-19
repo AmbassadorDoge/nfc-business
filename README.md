@@ -1,6 +1,6 @@
 # nfc business
 
-![/assets/3dv.png](3d viewer model)
+![3d viewer model](/assets/3dv.png)
 
 "nfc business" is a personal business card and general use nfc card. It uses the NT3H2111W0FHKH RFID transponder IC and a 25x88mm antenna. 
 
@@ -10,9 +10,9 @@ I made this as part of a hardware speedrun @ hack club!
 
 ### Schematic & PCB
 
-![/assets/sch](Schematic)
+![Schematic](/assets/sch)
 
-![/assets/pcb](PCB)
+![PCB](/assets/pcb)
 
 
 
