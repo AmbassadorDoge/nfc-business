@@ -10,9 +10,9 @@ I made this as part of a hardware speedrun @ hack club!
 
 ### Schematic & PCB
 
-![Schematic](/assets/sch)
+![Schematic](/assets/sch.png)
 
-![PCB](/assets/pcb)
+![PCB](/assets/pcb.png)
 
 
 
