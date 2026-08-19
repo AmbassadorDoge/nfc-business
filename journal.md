@@ -8,6 +8,10 @@ I wanted to participate in a 48h hardware speedrun hosted in Hack Club, so I dec
 
 I had some problems with footprint selection for the antenna but thankfully that was fixed and routing was straightforward.
 
+![Jam page](/assets/j1.png)
+
 ## Log 2: arts 8/18/26 1h
 
-It took me a while to get to the final product because I was experimenting with ways and combinations for the text and art to potentially pop(whether by exposing copper or with silkscreen) and I settled on a top and bottom bar silkscreen with stars unexposed for a different feel. 
+It took me a while to get to the final product because I was experimenting with ways and combinations for the text and art to potentially pop(whether by exposing copper or with silkscreen) and I settled on a top and bottom bar silkscreen with stars unexposed for a different feel.
+
+![Stars formatting](/assets/j2.png)
